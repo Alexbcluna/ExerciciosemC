@@ -1,7 +1,4 @@
-/*1) Faça um programa que solicite 2 números e informe: a soma dos números, o produto do 
-primeiro número pelo quadrado do segundo, o quadrado do primeiro número, a raiz quadrada 
-da soma dos quadrados, o seno da diferença do primeiro número pelo segundo e O módulo 
-do primeiro número.*/
+/*QuestÃ£o 1:*/
 
 #include <stdio.h>
 #include <math.h>
